@@ -131,3 +131,5 @@ print(liste_aufgabe)
 satz = "Python ist eine einfache sprache!"
 for buchstabe in satz:
     print(buchstabe)
+
+#
